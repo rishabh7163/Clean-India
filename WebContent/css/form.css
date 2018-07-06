@@ -1,0 +1,62 @@
+th{
+	color: white;
+}
+input[type="text"], input[type="password"], input[type="tel"] {
+	border-radius: 5px;
+	width: 400px;
+	margin:5dp;
+	background-color:#ffffff;
+	height: 40px;
+}
+i{
+	background-color: white;
+}
+input[type="button"] {
+	width: 200px;
+	height: 40px;
+	background-color: #0080ff;
+	color: white;
+	border-radius: 10px;
+}
+#login{
+	width: 200px;
+	height: 40px;
+	background-color: #0080ff;
+	color: white;
+	border-radius: 10px;
+}
+
+input[type="reset"] {
+	width: 200px;
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	height: 40px;
+}
+
+#form{
+	
+	width: 50%;
+	margin-left: 300px;
+	border-radius:25px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+input[type="text"]:HOVER{
+	border-color:red;
+}
+input[type="password"]:HOVER{
+	border-color:red;
+}
+input[type="tel"]:HOVER{
+	border-color:red;
+}
+input[type="button"]:HOVER {
+	opacity: .5;
+}
+#login:HOVER {
+	opacity: .5;
+}
+input[type="reset"]:HOVER {
+	opacity: .5;
+}

@@ -1,0 +1,19 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+#content{
+	margin-bottom:0px;
+	width:100%;
+	min-height:600px;
+    background-image: url("../image/banner.jpg");
+    padding-bottom: 10px;
+}
+#imageslide{
+	width: 100%;
+	padding: 20px;
+}
+.mySlides{
+	border-radius:25px;
+		height:400px;
+}

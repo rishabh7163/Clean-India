@@ -1,0 +1,19 @@
+body{
+	margin:0px;
+	padding: 0px;
+	
+}
+#foot{
+	
+	position: relative;
+	margin:0px;
+	background-color: #000000;
+
+}
+#footdata{ 
+	padding-top: 40px;
+	color: white;
+	font-size: large;
+	font-style: normal;
+	
+	}

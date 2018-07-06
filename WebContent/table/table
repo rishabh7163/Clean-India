@@ -1,0 +1,4 @@
+database name is cleanindia;
+
+create table users (name varchar(20),uname varchar(20) primary key,pass varchar(15),mobile varchar(10),email varchar(30));
+
